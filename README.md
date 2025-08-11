@@ -8,3 +8,13 @@ Custom digital decks for the games I play, including a minimalist scifi deck and
 The Starmap Poker deck comes with the usual 4-suit 52-card deck plus two jokers and a card back so you can use them with Jonathan Heard's inlineScripts plugin or the Solo RPG Toolkit. You can download the .zip file <a href="https://github.com/soggymuse/PlayingCards/blob/main/Starmap%20Deck/Starmap.zip">here</a>.
 
 <img src="https://github.com/soggymuse/PlayingCards/blob/main/Starmap%20Deck/Clubs12.png" width=100 /> <img src="https://github.com/soggymuse/PlayingCards/blob/main/Starmap%20Deck/Diamonds08.png" width=100 /> <img src="https://github.com/soggymuse/PlayingCards/blob/main/Starmap%20Deck/Spades01.png" width=100 /> <img src="https://github.com/soggymuse/PlayingCards/blob/main/Starmap%20Deck/Hearts12.png" width=100 />
+
+## Apawthecaria
+
+### A small Companions deck
+
+A mini deck of cards you can use as tokens for your Companions: print them and stick them in your character's inventory, use them in Obsidian.md - and if you can't decide which Companion to buy, draw from the deck using the Solo RPG Toolkit.
+
+This deck includes the seven original Companions from the Apawthecaria playbook (not including the Cranky Contraption) and three homebrew bugs for extra flavour!
+
+<img src="https://github.com/soggymuse/PlayingCards/blob/main/ApawthecariaCompanions/Bumblebee.png" width=100 /> <img src="https://github.com/soggymuse/PlayingCards/blob/main/ApawthecariaCompanions/Ladybird.png" width=100 /> <img src="https://github.com/soggymuse/PlayingCards/blob/main/ApawthecariaCompanions/WoodAnt.png" width=100 />
